@@ -1,7 +1,7 @@
 # --------- BUILT-IN PACKAGES ---------
 import json
 
-file_path: str = r'C:\Users\Mateus\projects\python\generate_paper_page\src\data\code_for_begginers.json'
+file_path: str = r''
 
 # --------- EXTERNAL PACKAGES ---------
 from fpdf import FPDF

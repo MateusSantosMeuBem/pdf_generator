@@ -161,3 +161,4 @@ cython_debug/
 
 # Personal items
 **src/data/*
+!**src/data/data_example.json
